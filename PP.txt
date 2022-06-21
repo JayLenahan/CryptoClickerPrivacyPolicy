@@ -1,0 +1,9 @@
+Crypto Clicker: Privacy policy
+Welcome to Crypto Clicker app for Android! 
+I am a solo developer and I have not programmed this app to collect any personally information. All data  created by you is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Analytics: Hakugei Games makes use of Third-Party service in order to display ads
+The following is a list of the third-party operators I currently use in this app, their contact information, and links to their privacy policies.
+Unity Ads https://unity3d.com/legal/privacy-policy
+If you find any security vulnerabilites that have been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will fix it/help you.
+Illinois, USA.
+Hakugei.Dev@gmail.com
